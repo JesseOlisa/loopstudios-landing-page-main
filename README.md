@@ -13,7 +13,7 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 ## Overview
@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/loopstudios-landing-page-solution-using-html-css-and-js-fyHmvzIMC]
+- Live Site URL: [https://jesseolisa.github.io/loopstudios-landing-page-main/]
 
 ## My process
 
@@ -60,13 +60,10 @@ I learnt how important CSS grid is when creating website with mulitple image gri
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/JesseOlisa]
+- Twitter - [https://www.twitter.com/yourusername/jesseOlisa]
 
 
-
-## Acknowledgments
 
 
 
